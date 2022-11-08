@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(){
-    int satir,i,j,bosluk;
+    int satir,i,j;
     printf("Satir sayisini giriniz:");
     scanf("%d", &satir);
     for(i=1;i<=satir;i++){
