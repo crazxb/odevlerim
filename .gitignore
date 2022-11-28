@@ -9,7 +9,37 @@
 /deneme3.exe
 /deneme4.c
 /deneme4.exe
+/deneme5.c
+/deneme5.exe
+/deneme6.c
+/deneme6.exe
+/deneme7.code
+/deneme8.c
+/h0-git-github-temelleri-crazxb
+/a.exe
+/Ders1.c
+/Ders1.exe
+/Ders2.c
+/Ders2.exe
+/Ders3.c
+/Ders3.exe
 /Ders4.c
 /Ders4.exe
-/Lab Dersleri
-/odevlerim
+/Ders5.c
+/Ders5.exe
+/Ders6.c
+/Ders6.exe
+
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
