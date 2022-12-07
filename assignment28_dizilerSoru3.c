@@ -15,7 +15,7 @@ int main(){
 }
 int EnKucukEleman(int dizi[8]){
     for(int i=0; i<8; ++i){ //İlk girilen sayı sonraki girilen sayılarla karşılaştırılıyor.
-        if(dizi[0]>dizi[i]){//Eğer ilk girilen değer şimdi girilen değerden büyükse şimdi girdiğimiz değeri ilk girilen değere (yani en büyük değere) eşitle.
+        if(dizi[0]>dizi[i]){//Eğer ilk girilen değer şimdi girilen değerden büyükse şimdi girdiğimiz değeri ilk girilen değere (yani en küçük değere) eşitle.
             dizi[0]=dizi[i];
         }  
     }
